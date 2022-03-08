@@ -60,4 +60,5 @@ redNinja.showStats();
 pairProgram.play(redNinja);
 redNinja.showStats();
 redNinja.attack(blackNinja);
+redNinja.showStats();
 blackNinja.showStats();
